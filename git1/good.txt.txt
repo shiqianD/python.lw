@@ -1,3 +1,11 @@
 git status
 git add filename
 git commit -m"first commit"filename
+git log
+git reflog
+git reset --hard 版本号
+----------------------------
+git remote -v
+git remote add origin https://github.com/shiqianD/python.lw.git
+git push origin master上传
+git pull下载同步
